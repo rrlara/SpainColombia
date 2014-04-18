@@ -1,0 +1,165 @@
+var researchpartners = {
+"type": "FeatureCollection",
+"features": [
+		{
+		"type": "Feature",
+		"properties": {
+		"name": "Krishi Vigyan Kendra (KVK) - Aurangabad",
+		"admin": "Aurangabad",
+		"city": "Don Benito, Spain",
+		"image": ""
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-5.85,
+		38.95
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Krishi Vigyan Kendra (KVK) - Sitamarhi",
+		"admin": "Sitamarhi",
+		"city": "Caceres, Spain",
+		"image": ""
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-6.3666,
+		39.4833
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Rajendra Agriculture University (RAU)",
+		"admin": "Samastipur",
+		"city": "Merida, Spain",
+		"image": ""
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-6.3333,
+		38.9
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Bihar Agriculture University (BAU)",
+		"admin": "Bhagalpur",
+		"city": "Madrid, Spain",
+		"image": ""
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-3.7166,
+		40.38333
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Indian Council Agricultural Research - Research Center for Eastern Region (ICAR-RCER)",
+		"admin": "Patna",
+		"city": "Cordoba, Spain",
+		"image": "ICARRCER"
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-4.7666,
+		37.88333
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Indian Council Agricultural Research - Research Center for Eastern Region (ICAR-RCER)",
+		"admin": "Patna",
+		"city": "Granada, Spain",
+		"image": "ICARRCER"
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-3.6008,
+		37.12805
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Indian Council Agricultural Research - Research Center for Eastern Region (ICAR-RCER)",
+		"admin": "Patna",
+		"city": "Cali, Colombia",
+		"image": "ICARRCER"
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-76.52222,
+		3.420556
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Indian Council Agricultural Research - Research Center for Eastern Region (ICAR-RCER)",
+		"admin": "Patna",
+		"city": "Buga, Colombia",
+		"image": ""
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-76.3,
+		3.9
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Indian Council Agricultural Research - Research Center for Eastern Region (ICAR-RCER)",
+		"admin": "Patna",
+		"city": "El Cerrito, Colombia",
+		"image": ""
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-76.16666,
+		3.66666
+		]
+	}
+},
+{
+"type": "Feature",
+		"properties": {
+		"name": "Indian Council Agricultural Research - Research Center for Eastern Region (ICAR-RCER)",
+		"admin": "Patna",
+		"city": "Bogota, Colombia",
+		"image": ""
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+		-74.075833,
+		4.598056
+		]
+	}
+}
+]
+}
